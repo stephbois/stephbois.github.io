@@ -8,3 +8,8 @@ Data Analytics Projects @ Chang School of Continuing Education
 - project 2
 
 ### Projects
+
+[Publication](insert link here)
+
+to insrt an image:
+![image namte](inser image path)
