@@ -1,4 +1,4 @@
-# Data Analyst / Data Scientist 
+# Data Analyst / Data Scientist / Education Technology
 
 #### Technical Skills: Python, SQL, R, 
 
@@ -17,12 +17,21 @@ Data Analytics Projects @ Chang School of Continuing Education
 - project 1
 - project 2
 
-## Projects
+## Data Analytics and Data Science Projects
 
 [Publication](insert link here)
+**Overview:**
+**Tools Used:**
+**Responsibilities:**
 
 to insrt an image:
 ![image namte](inser image path)
+
+## Education Technology Projects
+
+**Overview:**
+**Tools Used:**
+**Responsibilities:**
 
 ## Awards & Scholarships Highlights
 **The Ontario Remembrance Scholarship	| 2022-2023** <br />
