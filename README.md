@@ -43,7 +43,7 @@ Assignment 3: [Publication](insert link here)
 **Tools Used:** RStudio and R Markdown document file <br />
 
 ### Python Programming for Data Science Course Assignments 
-![Python Image](/assets/img/Python.png) <br />
+![Python Image](/assets/img/Python1.png) <br />
 [**Assignment 1**](/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf) <br />
 **Overview:** Individual course assignment <br />
 **Tools Used:** Google Collab <br />
