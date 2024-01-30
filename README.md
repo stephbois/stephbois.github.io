@@ -44,10 +44,9 @@ Assignment 3: [Publication](insert link here)
 
 ### Python Programming for Data Science Course Assignments 
 ![image name](insert image path)
-Assignment 1: [Publication](insert link here)
-**Overview:** <br />
-**Tools Used:** <br />
-**Responsibilities:** <br />
+[Assignment 1]([insert link here](https://github.com/stephbois/stephbois.github.io/blob/main/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf))
+**Overview:** Individual course assignment <br />
+**Tools Used:** Google Collab <br />
 
 ![image name](insert image path)
 **Group Assignment:** [Publication](insert link here)
