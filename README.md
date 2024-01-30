@@ -50,10 +50,10 @@ Assignment 1: [Publication](insert link here)
 **Responsibilities:** <br />
 
 ![image name](insert image path)
-Group Assignment: [Publication](insert link here)
+**Group Assignment:** [Publication](insert link here)
 **Overview:** <br />
 **Tools Used:** <br />
-**Responsibilities:** <br />
+**Role and Responsibilities:** The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
 #### Supervised Learning Using SAS (Course Assignmenet) 
 ![image name](insert image path)
