@@ -17,6 +17,7 @@ Data Analytics Projects @ Chang School of Continuing Education
 - project 1
 - project 2
 
+# Projects Portfolio
 ## Data Analytics and Data Science Student Projects
 
 ### Python Programming for Data Science (CIND 830)
@@ -27,7 +28,7 @@ Data Analytics Projects @ Chang School of Continuing Education
 **Tools Used:** <br />
 **Responsibilities:** <br />
 
-#### Assignment 2
+#### Assignment 2 (Group Task)
 ![image name](insert image path)
 [Publication](insert link here)
 **Overview:** <br />
