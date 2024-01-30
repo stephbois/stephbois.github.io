@@ -3,14 +3,14 @@
 #### Technical Skills: Python, SQL, R, 
 
 ## Education
-- **Certificate Data Analytics, Big Data, and Predictive Analytics Certificate**
-- Chang School of Continuing Education, Toronto, ON | (2021-2024)
-- **Bachelor of Applied Science, Major in Nutrition and Food | Dean’s List**
-- Toronto Metropolitan University (TMU, formerly Ryerson University), Toronto, ON | (2020-2024)
-- **Proficiency in French Certificate**
-- Chang School of Continuing Education, Toronto, ON | (2020 - 2021)
-- **Advanced Diploma in Dental Hygiene | Dean’s Medal &  Honour List**
-- George Brown College (GBC), Toronto, ON | (2014-2016)
+- **Certificate Data Analytics, Big Data, and Predictive Analytics Certificate**<br />
+  Chang School of Continuing Education, Toronto, ON | (2021-2024)
+- **Bachelor of Applied Science, Major in Nutrition and Food | Dean’s List**<br />
+  Toronto Metropolitan University (TMU, formerly Ryerson University), Toronto, ON | (2020-2024)
+- **Proficiency in French Certificate**<br />
+  Chang School of Continuing Education, Toronto, ON | (2020 - 2021)
+- **Advanced Diploma in Dental Hygiene | Dean’s Medal &  Honour List**<br />
+  George Brown College (GBC), Toronto, ON | (2014-2016)
 
 ## Work & Volunteer Experience
 Data Analytics Projects @ Chang School of Continuing Education
