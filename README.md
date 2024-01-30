@@ -49,7 +49,7 @@ Assignment 3: [Publication](insert link here)
 **Tools Used:** Google Collab <br />
 
 ![image name](insert image path)
-**Group Assignment:** [Publication](insert link here)
+[Group Assignment](insert link here)
 **Overview:** <br />
 **Tools Used:** <br />
 **Role and Responsibilities:** The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
