@@ -17,21 +17,39 @@ Data Analytics Projects @ Chang School of Continuing Education
 - project 1
 - project 2
 
-## Data Analytics and Data Science Projects
+## Data Analytics and Data Science Student Projects
 
+### Python Programming for Data Science (CIND 830)
+#### Assignment 1
+![image name](insert image path)
 [Publication](insert link here)
-**Overview:**
-**Tools Used:**
-**Responsibilities:**
+**Overview:** <br />
+**Tools Used:** <br />
+**Responsibilities:** <br />
 
-to insrt an image:
-![image namte](inser image path)
+#### Assignment 2
+![image name](insert image path)
+[Publication](insert link here)
+**Overview:** <br />
+**Tools Used:** <br />
+**Responsibilities:** <br />
 
 ## Education Technology Projects
 
-**Overview:**
-**Tools Used:**
-**Responsibilities:**
+### Video Tutorials
+![image name](insert image path)
+[Publication](insert link here)
+**Overview:** <br />
+**Tools Used:** <br />
+**Responsibilities:** <br />
+
+### Published Websites
+![image name](insert image path)
+[Publication](insert link here)
+**Overview:** <br />
+**Tools Used:** <br />
+**Skills Used:** <br />
+**Responsibilities:** <br />
 
 ## Awards & Scholarships Highlights
 **The Ontario Remembrance Scholarship	| 2022-2023** <br />
