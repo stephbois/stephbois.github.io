@@ -43,8 +43,8 @@ Assignment 3: [Publication](insert link here)
 **Tools Used:** RStudio and R Markdown document file <br />
 
 ### Python Programming for Data Science Course Assignments 
-![Python Image]([insert image path](https://github.com/stephbois/stephbois.github.io/blob/main/assets/img/Python.png))
-[Assignment 1]([insert link here](https://github.com/stephbois/stephbois.github.io/blob/main/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf))
+![Python Image](https://github.com/stephbois/stephbois.github.io/blob/main/assets/img/Python.png)
+[Assignment 1](https://github.com/stephbois/stephbois.github.io/blob/main/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf)
 **Overview:** Individual course assignment <br />
 **Tools Used:** Google Collab <br />
 
