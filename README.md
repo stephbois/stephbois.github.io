@@ -34,7 +34,7 @@ Data Analytics Projects @ Chang School of Continuing Education
 ---
 ## Data Analytics and Data Science Student Projects
 
-#### Data Analytics Basic Methods Course Assignments
+### Data Analytics Basic Methods Course Assignments
 ![image name](insert image path)
 Assignment 1: [Publication](insert link here)
 Assignment 2: [Publication](insert link here)
@@ -42,7 +42,7 @@ Assignment 3: [Publication](insert link here)
 **Overview:** <br />
 **Tools Used:** RStudio and R Markdown document file <br />
 
-#### Python Programming for Data Science Course Assignments 
+### Python Programming for Data Science Course Assignments 
 ![image name](insert image path)
 Assignment 1: [Publication](insert link here)
 **Overview:** <br />
@@ -55,21 +55,21 @@ Assignment 1: [Publication](insert link here)
 **Tools Used:** <br />
 **Role and Responsibilities:** The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
-#### Supervised Learning Using SAS (Course Assignmenet) 
+### Supervised Learning Using SAS (Course Assignmenet) 
 ![image name](insert image path)
 [Publication](insert link here)
 **Overview:** <br />
 **Tools Used:** <br />
 **Responsibilities:** <br />
 
-#### Querying an RDBMS Database Using SQLite (Course Assignement)
+### Querying an RDBMS Database Using SQLite (Course Assignement)
 ![image name](insert image path)
 [Publication](insert link here)
 **Overview:** <br />
 **Tools Used:** <br />
 **Responsibilities:** <br />
 
-#### Introduction to Big Data (Group Project)
+### Introduction to Big Data (Group Project)
 ![image name](insert image path)
 [Publication](insert link here)
 **Overview:** <br />
