@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, 
 
 ## Education
- **Certificate Data Analytics, Big Data, and Predictive Analytics Certificate** <br />
+ **Data Analytics, Big Data, and Predictive Analytics Certificate** <br />
 Toronto Metropolitan University's Chang School of Continuing Education, Toronto, ON | (2021-2024) <br />
 **Bachelor of Applied Science, Major in Nutrition and Food, Dean’s List** <br />
 Toronto Metropolitan University, Toronto, ON | (2020-2024) <br />
