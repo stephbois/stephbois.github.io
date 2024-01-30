@@ -4,13 +4,13 @@
 
 ## Education
  **Certificate Data Analytics, Big Data, and Predictive Analytics Certificate** <br />
-Chang School of Continuing Education, Toronto, ON | (2021-2024) <br />
+Toronto Metropolitan University's Chang School of Continuing Education, Toronto, ON | (2021-2024) <br />
 **Bachelor of Applied Science, Major in Nutrition and Food, Dean’s List** <br />
-Toronto Metropolitan University (TMU, formerly Ryerson University), Toronto, ON | (2020-2024) <br />
+Toronto Metropolitan University, Toronto, ON | (2020-2024) <br />
 **Proficiency in French Certificate** <br />
-Chang School of Continuing Education, Toronto, ON | (2020 - 2021) <br />
+Toronto Metropolitan University's Chang School of Continuing Education, Toronto, ON | (2020 - 2021) <br />
 **Advanced Diploma in Dental Hygiene, Dean’s Medal &  Honour List** <br />
-George Brown College (GBC), Toronto, ON | (2014-2016)
+George Brown College, Toronto, ON | (2014-2016)
 
 ## Work & Volunteer Experience
 Data Analytics Projects @ Chang School of Continuing Education
