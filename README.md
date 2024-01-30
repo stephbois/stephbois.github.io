@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, 
 
 ## Education
-**Certificate Data Analytics, Big Data, and Predictive Analytics Certificate** <br />
+ **Certificate Data Analytics, Big Data, and Predictive Analytics Certificate** <br />
 Chang School of Continuing Education, Toronto, ON | (2021-2024) <br />
 **Bachelor of Applied Science, Major in Nutrition and Food, Dean’s List** <br />
 Toronto Metropolitan University (TMU, formerly Ryerson University), Toronto, ON | (2020-2024) <br />
@@ -18,6 +18,7 @@ Data Analytics Projects @ Chang School of Continuing Education
 - project 2
 
 # Projects Portfolio
+---
 ## Data Analytics and Data Science Student Projects
 
 ### Python Programming for Data Science (CIND 830)
@@ -53,11 +54,11 @@ Data Analytics Projects @ Chang School of Continuing Education
 **Responsibilities:** <br />
 
 ## Awards & Scholarships Highlights
-##### The Ontario Remembrance Scholarship	| 2022-2023** <br />
+**The Ontario Remembrance Scholarship	| 2022-2023** <br />
 Ontario’s Ministry of Colleges and Universities provided funding for 57 dedicated merit-based scholarships <br />
-##### TMU Sheila (Angus) Ceccetto Award |	2022-2023** <br />
+**TMU Sheila (Angus) Ceccetto Award |	2022-2023** <br />
 University-Wide Award that recognizes one student who has sustained involvement and/or dedication to the Toronto Met community. <br />
-##### TMU Faculty of Community Services Full-Time Undergraduate Award |	2022-2023** <br />
+**TMU Faculty of Community Services Full-Time Undergraduate Award |	2022-2023** <br />
 Acknowledges students who have demonstrated leadership, collaboration, creativity, innovation, commitment, and/or contribution to their discipline, school, or community. <br />
-##### TMU School of Nutrition Academic Achievement Award |	(2022-2023)** <br />
+**TMU School of Nutrition Academic Achievement Award |	(2022-2023)** <br />
 Awarded to one student in the Nutrition program for outstanding academic performance.
