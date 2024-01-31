@@ -9,7 +9,7 @@
 - **BASc with Major in Nutrition and Food, Dean’s List** <br />
   Toronto Metropolitan Univeristy (Toronto, ON) | 2020-2024 <br />
 - **Advanced Diploma in Dental Hygiene, Dean’s Medal &  Honour List** <br />
-- George Brown College (Toronto, ON) | 2014-2016 <br />
+  George Brown College (Toronto, ON) | 2014-2016 <br />
 
 ## Work & Volunteer Experience
 
