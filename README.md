@@ -62,13 +62,14 @@ course of study, but also foster valuable teamwork and communication skills.
 **Tools Used:** Python, Google Collab, Visual Studio Code <br />
 - Python Programming | Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_1) <br />
 - Python Data Analysis | Assignment 2: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_2) <br />
-- Python Data Analysis | Group Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
-<br />
+
+Python Data Analysis | Group Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
+
  > Overview: <br />
  > Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
 ### Other Programming Course Assignments 
-- Supervised Learning Using SAS | Assignment:[View Files](insert link here) <br />
+- Supervised Learning Using SAS | Assignment: [View Files](insert link here) <br />
 *Tools Used: SAS,*  <br />
 - Querying an RDBMS Database Using SQLite | Assignment: [View Files](insert link here)  <br />
 *Tools Used:* <br />
