@@ -45,9 +45,8 @@ Data Analytics Projects @ Chang School of Continuing Education
 - Python Programming | Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_1) <br />
 - Python Data Analysis | Assignment 2: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_2) <br />
 - Python Data Analysis | Group Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
-
- > Overview: <br />
- > Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
+Overview: <br />
+Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
 ### Other Programming Course Assignments 
 **Supervised Learning Using SAS** [Publication](insert link here) <br />
