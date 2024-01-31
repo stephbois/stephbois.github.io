@@ -1,4 +1,4 @@
-# Data Analysis / Data Science / Business Analysis / Research
+# Data Analysis, Data Science & Research
 
 **Languages:** English (fluent), French (fluent) <br />
 **Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS  
