@@ -64,8 +64,8 @@ course of study, but also foster valuable teamwork and communication skills.
 - Python Data Analysis | Assignment 2: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_2) <br />
 - Python Data Analysis | Group Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
 <br />
-Overview: <br />
-Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
+ > Overview: <br />
+ > Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
 ### Other Programming Course Assignments 
 - Supervised Learning Using SAS | Assignment:[View Files](insert link here) <br />
