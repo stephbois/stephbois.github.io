@@ -1,4 +1,4 @@
-# Data Analyst / Data Scientist / EdTech
+# Data Analysis / Data Science / Business Analysis / Research
 
 **Languages:** English (fluent), French (fluent) <br />
 **Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS  
