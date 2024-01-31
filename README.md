@@ -34,7 +34,7 @@ Data Analytics Projects @ Chang School of Continuing Education
 ---
 ## Data Analytics and Data Science Student Projects
 
-![image name](insert image path)
+![R Image]([/assets/img/R%20resized.png))
 ### Data Analytics Basic Methods Course Assignments
 Assignment 1: [Publication](insert link here)
 Assignment 2: [Publication](insert link here)
