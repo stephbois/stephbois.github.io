@@ -34,44 +34,33 @@ Data Analytics Projects @ Chang School of Continuing Education
 ---
 ## Data Analytics and Data Science Student Projects
 
-![R Image](/assets/img/R%20resized.png)
 ### Data Analytics Basic Methods Course Assignments
-Assignment 1: [Publication](insert link here)
-Assignment 2: [Publication](insert link here)
-Assignment 3: [Publication](insert link here)
 **Overview:** <br />
 **Tools Used:** RStudio and R Markdown document file <br />
+**R Programming Assignment 1:** [Publication](insert link here) <br />
+**R Programming Assignment 2:** [Publication](insert link here) <br />
+**R Programming Assignment 3:** [Publication](insert link here) <br />
 
-
-![Python Image](/assets/img/Python1.png) <br />
 ### Python Programming for Data Science Course Assignments 
-[Python Programming Assignment](/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf) <br />
+**Individual Assignment 1:**[Python Programming Assignment](/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf) <br />
 **Overview:** Individual course assignment <br />
-**Tools Used:** Google Collab <br />
+**Tools Used:** Python, Google Collab <br />
 
-![image name](insert image path) <br />
-[Group Assignment](insert link here) <br />
+**Python Data Analysis Group Assignment:**[Group Assignment](insert link here) <br />
 **Overview:** <br />
-**Tools Used:** <br />
+**Tools Used:** Python, Google Collab <br />
 **Role and Responsibilities:** The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
-### Supervised Learning Using SAS (Course Assignmenet) 
-![image name](insert image path)
-[Publication](insert link here)
+### Other Programming Course Assignments 
+**Supervised Learning Using SAS** [Publication](insert link here) <br />
 **Overview:** <br />
 **Tools Used:** <br />
-**Responsibilities:** <br />
 
-### Querying an RDBMS Database Using SQLite (Course Assignement)
-![image name](insert image path)
-[Publication](insert link here)
+**Querying an RDBMS Database Using SQLite** [Publication](insert link here)  <br />
 **Overview:** <br />
 **Tools Used:** <br />
-**Responsibilities:** <br />
 
-### Introduction to Big Data (Group Project)
-![image name](insert image path)
-[Publication](insert link here)
+**Big Data Case Study Group Project** [Publication](insert link here) <br />
 **Overview:** <br />
 **Tools Used:** <br />
 **Responsibilities:** <br />
