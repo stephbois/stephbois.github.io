@@ -34,6 +34,24 @@ Data Analytics Projects @ Chang School of Continuing Education
 ---
 ## Data Analytics and Data Science Student Projects
 
+**Big Data Case Study Group Project | Case Study**: 
+Group Milestone: 
+Presentation: [View Files](insert link here) <br />
+*Overview:* <br />
+*Tools Used:* <br />
+*Responsibilities:* <br />
+
+The final group project (worth 40% of the final grade) is a collaborative project in which
+student groups will apply fundamental data analysis and machine learning skills learned in
+this course. In small groups, students will take the role of data scientists to solve a data
+analytics problem for an organization. Each group will be able to choose a dataset from a
+given list of publicly available organizational datasets to work with.
+The first milestone of this project will be for each group to establish their workload
+distribution, select one of the provided datasets, and determine a tentative methodology of
+their research.
+This project will not only allow students to apply what they have learned throughout their
+course of study, but also foster valuable teamwork and communication skills.
+
 ### Data Analytics Basic Methods Course Assignments
 **Tools Used:** RStudio and R Markdown document file <br />
 - R Programming | Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/r_programming/assignment_1) <br />
@@ -49,29 +67,12 @@ Overview: <br />
 Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
 ### Other Programming Course Assignments 
-**Supervised Learning Using SAS** [Publication](insert link here) <br />
-**Overview:** <br />
-**Tools Used:** <br />
+- Supervised Learning Using SAS | Assignment:[View Files](insert link here) <br />
+*Tools Used: SAS,*  <br />
+- Querying an RDBMS Database Using SQLite | Assignment: [View Files](insert link here)  <br />
+*Tools Used:* <br />
 
-**Querying an RDBMS Database Using SQLite** [Publication](insert link here)  <br />
-**Overview:** <br />
-**Tools Used:** <br />
 
-**Big Data Case Study Group Project** [Publication](insert link here) <br />
-**Overview:** <br />
-**Tools Used:** <br />
-**Responsibilities:** <br />
-
-The final group project (worth 40% of the final grade) is a collaborative project in which
-student groups will apply fundamental data analysis and machine learning skills learned in
-this course. In small groups, students will take the role of data scientists to solve a data
-analytics problem for an organization. Each group will be able to choose a dataset from a
-given list of publicly available organizational datasets to work with.
-The first milestone of this project will be for each group to establish their workload
-distribution, select one of the provided datasets, and determine a tentative methodology of
-their research.
-This project will not only allow students to apply what they have learned throughout their
-course of study, but also foster valuable teamwork and communication skills.
 
 
 ## Education Technology Projects
