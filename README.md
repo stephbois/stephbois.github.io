@@ -1,46 +1,18 @@
 # Data Analyst / Data Scientist / EdTech
 
-#### Languages: English (fluent), French (fluent) 
-#### Technical Skills: Python, SQL, R, Hadoop, SAS, Mongo DB  
-#### Video and Web Based Manaagement: Adobe Experience Manager(AEM), Snagit (screen capuring), Camtasia (video editing),  
-#### Other Tools:, Google Workspace, Microsoft 360, D2L Brightspace, D2L Brightspace (LMS)
+**Languages:** English (fluent), French (fluent) 
+**Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS  
 
 ## Education
- **Data Analytics, Big Data, and Predictive Analytics Certificate** <br />
-Toronto Metropolitan University's Chang School of Continuing Education, Toronto, ON | (2021-2024) <br />
-**Bachelor of Applied Science, Major in Nutrition and Food, Dean’s List** <br />
-Toronto Metropolitan University, Toronto, ON | (2020-2024) <br />
-**Proficiency in French Certificate** <br />
-Toronto Metropolitan University's Chang School of Continuing Education, Toronto, ON | (2020 - 2021) <br />
-**Advanced Diploma in Dental Hygiene, Dean’s Medal &  Honour List** <br />
-George Brown College, Toronto, ON | (2014-2016)
-
-## Awards & Scholarships Highlights
-**The Ontario Remembrance Scholarship	| 2022-2023** <br />
-
-Ontario’s Ministry of Colleges and Universities provided funding for 57 dedicated merit-based scholarships <br />
-
-**TMU Sheila (Angus) Ceccetto Award |	2022-2023** <br />
-
-University-Wide Award that recognizes one student who has sustained involvement and/or dedication to the Toronto Met community. <br />
-
-**TMU Faculty of Community Services Full-Time Undergraduate Award |	2022-2023** <br />
-
-Acknowledges students who have demonstrated leadership, collaboration, creativity, innovation, commitment, and/or contribution to their discipline, school, or community. <br />
-
-**TMU School of Nutrition Academic Achievement Award |	(2022-2023)** <br />
-
-Awarded to one student in the Nutrition program for outstanding academic performance.
+- Certificate | **Data Analytics, Big Data, and Predictive Analytics** | Chang School of Continuing Education (Toronto, ON) | 2021-2024<br />
+- BASc | **Major in Nutrition and Food, Dean’s List** | Toronto Metropolitan Univeristy (Toronto, ON) | 2020-2024 <br />
+- Advanced Diploma | **Dental Hygiene, Dean’s Medal &  Honour List** | George Brown College (Toronto, ON) | 2014-2016 <br />
 
 ## Work & Volunteer Experience
-Data Analytics Projects @ Chang School of Continuing Education
-- project 1
-- project 2
 
 # Projects Portfolio
 ---
-## Data Analytics and Data Science Student Projects
-
+## Group Porjects and Case Studies
 **Big Data Case Study Group Project**: 
 Group Milestone: 
 Presentation: [View Files](insert link here) <br />
@@ -64,6 +36,7 @@ course of study, but also foster valuable teamwork and communication skills.
 - > Overview: <br />
 - > Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
+## Assignments and Sample Code
 ### Data Analytics Basic Methods Course Assignments
 ***Tools Used:*** *RStudio and R Markdown document file* <br />
 - R Programming | [Assignment 1: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/r_programming/assignment_1) <br />
