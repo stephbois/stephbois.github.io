@@ -34,7 +34,7 @@ Data Analytics Projects @ Chang School of Continuing Education
 ---
 ## Data Analytics and Data Science Student Projects
 
-**Big Data Case Study Group Project | Case Study**: 
+**Big Data Case Study Group Project**: 
 Group Milestone: 
 Presentation: [View Files](insert link here) <br />
 *Overview:* <br />
@@ -71,8 +71,11 @@ course of study, but also foster valuable teamwork and communication skills.
 
 ### Other Programming Course Assignments 
 - Supervised Learning Using SAS | Assignment: [View Files](insert link here) <br />
+
 *Tools Used: SAS,*  <br />
+
 - Querying an RDBMS Database Using SQLite | Assignment: [View Files](insert link here)  <br />
+
 *Tools Used:* <br />
 
 
