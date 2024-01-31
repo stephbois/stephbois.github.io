@@ -1,7 +1,6 @@
 # Data Analyst / Data Scientist / EdTech
 
-**Languages:** English (fluent), French (fluent) 
-**Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS  
+**Languages:** English (fluent), French (fluent) | **Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS  
 
 ## Education
 - Certificate | **Data Analytics, Big Data, and Predictive Analytics** | Chang School of Continuing Education (Toronto, ON) | 2021-2024<br />
