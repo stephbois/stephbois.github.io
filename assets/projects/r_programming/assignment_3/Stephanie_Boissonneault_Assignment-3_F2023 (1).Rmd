@@ -1,0 +1,314 @@
+---
+title: "CIND 123: Data Analytics Basic Methods: Assignment-3"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+<center> <h1> Assignment 3 (10%) </h1> </center>
+<center> <h2> Total 100 Marks </h2> </center>
+<center> <h3> [Stephanie Boissonneault] </h3> </center>
+---
+
+
+## Instructions
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+Use RStudio for this assignment. Complete the assignment by inserting your R code wherever you see the string "#INSERT YOUR ANSWER HERE".
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+Submit **both**  the rmd and generated output files. Failing to submit both files will be subject to mark deduction.
+
+## Sample Question and Solution
+
+Use `seq()` to create the vector $(2,4,6,\ldots,20)$.
+
+```{r}
+#INSERT YOUR ANSWER HERE.
+seq(2,20,by = 2)
+
+```
+## Question 1 [15 Pts]
+
+a) [5 Pts] First and second midterm grades of some students are given as c(85,76,78,88,90,95,42,31,66) and c(55,66,48,58,80,75,32,22,39). Set R variables `first` and `second` respectively. Then find the least-squares line relating the second midterm to the first midterm. 
+
+   Does the assumption of a linear relationship appear to be reasonable in this case? Give reasons to your answer as a comment.
+```{r}
+first <- c(85,76,78,88,90,95,42,31,66)
+second <- c(55,66,48,58,80,75,32,22,39)
+
+lsmodel <- lm(second ~ first)
+summary(lsmodel)
+#The assumption of a linear relationship appears to be reasonable because the summary of the line of best fit has a p value = 0.001 indicating that the overall model is statistically significant. In addition, the adjusted R squared value is 0.778 (this is fairly high and close to 1, indicating that the independent variables of the model can well predict the variation of the predicted variables). Here the residuals range from -9 to 13 which is a fairly symmetrical distribution. This model demonstrates that the line of best fit has a y intercept of -4.15. For every increase in one mark form the first midterm grade, the second midterm grade increases by about 0.79 (this is the slope).
+```
+
+b) [5 Pts] Plot the second midterm as a function of the first midterm using a scatterplot and graph the least-square line in red color on the same plot. 
+```{r}
+print(plot(first, second, main = "First and second midterm grades of some students"))
+print(abline(lsmodel, col = "red"))
+```
+
+c) [5 Pts] Use the regression line to predict the second midterm grades when the first midterm grades are 81 and 23. 
+
+```{r}
+first.81 <- data.frame(first=c(81))
+predict(lsmodel, first.81)
+```
+```{r}
+first.23 <- data.frame(first=c(23))
+predict(lsmodel, first.23)
+```
+
+
+
+## Question 2 [45 Pts]
+
+This question makes use of package "plm". Please load Crime dataset as follows:
+```{r load_packages}
+#install.packages("plm")
+library(plm) 
+data(Crime)
+```
+
+a) [5 Pts] Display the first 8 rows of 'crime' data and display the names of all the variables, the number of variables, then display a descriptive summary of each variable. 
+```{r}
+#Display first 8 rows
+print(head(Crime, 8))
+```
+
+```{r}
+#Display all variable names
+print(ls(Crime))
+```
+```{r}
+#Display number of variables
+print(length(ls(Crime)))
+```
+```{r}
+#Display each variable's descriptive summary 
+print(summary(Crime))
+```
+
+
+
+b) [5 Pts] Calculate the mean,variance and standard deviation of probability of arrest (prbarr) by omitting the missing values, if any. 
+```{r}
+#mean
+prbarr_avg <- mean(Crime$prbarr, na.rm = TRUE)
+prbarr_avg
+
+#variance
+prbarr_var <- var(Crime$prbarr, na.rm = TRUE)
+prbarr_var
+
+#standard deviation
+prbarr_sd <- sqrt(prbarr_var)
+prbarr_sd
+```
+c) [5 Pts] Use `lpolpc` (log-police per capita) and `smsa` variables to build a linear regression model to predict probability of arrest (prbarr).  And, compare with another linear regression model that uses `polpc` (police per capita) and `smsa`.
+
+   [5 Pts] How can you draw a conclusion from the results? 
+   (Note: Full marks requires comment on the predictors)
+```{r}
+#Multiple linear regression
+model1 <- lm(prbarr ~ lpolpc + smsa, data = Crime)
+summary(model1)
+
+model2 <- lm(prbarr ~ polpc + smsa, data = Crime)
+summary(model2)
+
+#The p value of the F statistic in model1 and model2 are both highly significant. Model1 residuals have a smaller range than that of Model2 (-0.4 to 2.2 compared to -0.7 to 2.2) . The R square of both models is simular (0.1) indicating that about 10% of the variation in the output of prbarr are explained by the input variables. 
+
+#Looking at the Coefficients from Model1, we can conclude that there is a highly significant (Pr(>|t|***) positive relationship between lpolpc and prbarr and negative relationship between smsayes and prbarr. For an increase of one unit in log of police per capita (lpolpc), there is an estimated increase of 0.08 units of probability of arrest (prbarr). For each increase of one unit of individuals responding yes to residing in a standard metropolitan statistical area (smsayes), there is an estimated decrease of probability of arrest (prbarr) of 0.14. 
+
+#Looking at the Coefficients from Model2, we can conclude that there is a highly significant (Pr(>|t|***) positive correlation between polpc and prbarr, and negative relationship between smsayes and prbarr. As police per capita (polpc) increases by 1 unit, it is estimated that the probability of arrest (prbarr) increases by 18.35, and as the numper of individuls responding yes to residing in a standard metropolitan statistical area (smsayes) increases by one unit, the probability of arrest (prbarr) decreases by an estimated 0.11
+```
+
+d) [5 Pts] Based on the output of your model, write the equations using the intercept and factors of `smsa` when `polpc` is set to 0.0015. and compare the result with `predict()` function.  
+Hint: Explore `predict()` function
+```{r}
+#Model 2 equation when smsa is no
+y.smsano = 0.28213 + 18.34603*(0.0015)
+y.smsano
+
+#Model2 equation when smsa is yes
+y.smsayes =  0.28213 + 18.34603*(0.0015) - 0.11163
+y.smsayes
+```
+
+```{r}
+#Temporary dataframe to set polpc to 0.0015
+polpc.smsa.df <- data.frame(polpc = c(0.0015), smsa = c('no','yes'))
+predict(model2, polpc.smsa.df)
+
+#The results obtained from using the predict function are exactly the same up to 5 decimal points.
+```
+e) [5 Pts] Find Pearson correlation between probability of prison sentence `prbpris` and tax per capita `taxpc`; and also Pearson correlation between probability of conviction `prbconv` and probability of arrest `prbarr`. 
+
+   [5 Pts] What conclusions can you draw? Write your reasons as comments.
+```{r}
+cor.test(Crime$prbpris, Crime$taxpc)
+
+#We can conclude that there is a very low negative linear correlation between prison sentence (prbpris) and tax per capita (taxpc) because the pearson correlation coefficient is -0.11. The p value for this result is also small (p-value = 0.0048) is < p-value 0.05 indicating that this result is statistically significant.
+```
+
+```{r}
+cor.test(Crime$prbconv, Crime$prbarr)
+#We can conclude that there is a very low positive correlation linear relationship between the probability of conviction (prbconv) and probability of arrest (prbarr) because the pearson correlation coefficient is 0.3 (this is almost zero which is equivalent to no relationship). The p-value is = 0.3, which is higher than p-value of 0.05 indicating that this result is not statistically significant, therefore we cannot conclude that there is a correlation.    
+```
+
+f) [5 Pts] Display the correlation matrix of the variables: prbconv, prbpris, avgsen, polpc. 
+
+   [5 Pts] Write what conclusion you can draw, as comments. 
+   
+```{r}
+#install.packages("corrplot")
+library(corrplot)
+```
+
+```{r}
+table_cor<- cor(Crime[,5:8])
+table_cor
+#We can conclude that there is a moderate positive correlation coefficient between prbconv and polpc (0.45). 
+
+#We can also conclude that there is very little  negative linear relationship between prbconv and prbpris (-0.037), prbpris and avgsen (-0.004), and polpc and prbpris(-0.057) because these values are between -0.1 and 0 (where zero represent no linear relationship). 
+
+#We can also conclude that there is a very low positive correlation between prbconv and avgsen (0.015) and avgsen and polpc (0.017) because their pearson correlation coefficients lie between 0.1 and 0. 
+```
+
+```{r}
+#Further visualizing pearson correlations
+corrplot(table_cor, method = "ellipse")
+```
+
+
+
+## Question 3 [15 Pts]
+
+This question makes use of package "ISwR". Please load `airquality` dataset as following:
+
+```{r}
+#install.packages("ISwR")
+library(ISwR) 
+data(airquality)
+str(airquality)
+```
+
+
+a) [5 Pts] Plot a histogram to assess the normality of the `Solar.R` variable, then explain why it does not appear normally distributed. 
+```{r}
+print(hist(airquality$Solar.R))
+
+#This variable does not appear normally distributed because the histogram is not a bell shaped curve (the mean, median, and mode do not appear to be centered with a symmetrical distribution on either side), rather, the data appears to be left-skewed. 
+```
+
+b) [5 Pts] Create a boxplot that shows the distribution of `Solar.R` in each month. Use different colors for each month. 
+
+```{r}
+#Colour vector preparation
+library (RColorBrewer)
+
+boxplot(Solar.R ~ Month, data = airquality, main = "Distribution of Solar.R by Month", xlab = "Months (Numbered 1-12)", ylab = "Solar R (lang)", col= brewer.pal(12, name = "Set2"))
+```
+
+c) [5 Pts] Create a matrix of scatterplots of all the numeric variables in the `airquality` dataset (i.e. Ozone, Solar.R, Wind and Temp.)
+(Hint: investigate pairs() function) 
+
+```{r}
+#Matrix only comparing: Ozone, Solar.R, Wind and Temp
+print(pairs(~ Ozone + Solar.R + Wind + Temp, data = airquality, main = "Airquality Data", na.action = na.omit))
+```
+
+
+
+## Question 4 [25 Pts]
+
+Many times in data analysis, we need a method that relies on repeated random sampling to obtain numerical results. The underlying concept is to use randomness to solve problems. In fact,  this is a mathematical technique, which is used to estimate the possible outcomes of an uncertain event and is called the *Monte Carlo Method*. 
+
+Consider that We roll a die 10 times and we want to know the probability of getting more than 3 times of even numbers. This is a problem for the Binomial distribution, but suppose we don't know anything about Binomial distribution. We can easily solve this problem with a Monte Carlo Simulation.   
+
+
+a) [5 Pts] The Monte Carlo Method uses random numbers to simulate some process. Here the process is rolling a die 10 times. Assume the die is fair. What is the probability of success or getting an even number in rolling the die once?
+```{r}
+#install.packages("gtools")
+library(gtools)
+```
+
+```{r}
+one.dice <- c(1, 2, 3, 4, 5, 6)
+perm <- permutations(length(one.dice), 1, one.dice,
+repeats.allowed =TRUE)
+perm
+#Probability of success of rolling an even number when rolling the die once is 3/6 or 0.5
+```
+
+
+b) [10 Pts] Define a function named `one.trial`, that simulates a single round of rolling a die 10 times and returns true if the number of even numbers is > 3.
+```{r}
+#INSERT YOUR ANSWER HERE.
+one.trial <- function(){
+  
+  die <- c()
+  num_even <- 0
+  
+  #Roll the die and store rolls in a vector called "die"
+  for (roll in 1:10){
+      die <- append(die, sample(1:6, size = 1, replace = TRUE))
+  }
+  #print(die)
+  
+  #Count number of even numbers in the vector "die"   
+      for (i in die) {
+        if (i == 2) {
+          num_even <- num_even + 1 
+        } else if (i == 4){
+          num_even <- num_even + 1 
+        } else if (i == 6){
+          num_even <- num_even + 1
+        } else {
+          num_even <- num_even + 0
+        }
+      }
+  #print(num_even)
+  
+  #Determine whether count of even numbers is over 3
+  if (num_even > 3) {
+    return(TRUE)
+  } else{
+    return(FALSE)
+  }
+  
+  }
+```
+
+```{r}
+one.trial()
+```
+
+c) [5 pts] Repeat the function `one.trial` for `N = 100,000` times and sum up the outcomes and store the result in a variable named `desired.output`. Compute the probability of getting more than 3 times of even numbers by using relative frequency. 
+
+```{r}
+#Returns the number one.trial() that is equal to TRUE (>3 even numbers)
+set.seed(10)
+desired.output <- sum(replicate(n = 100000, expr = one.trial()))
+desired.output
+
+my.probability <- desired.output/100000
+my.probability
+```
+
+
+d) [5 pts] Use the Binomial formula you learned before to calculate such probability and Compare it with the probability value obtained in part (c).
+
+```{r}
+set.seed(10)
+pbinom(q = 3, size = 10, prob = 1/2)
+```
+
+Congratulations! you have completed the first run of the Monte Carlo simulation. 
+
+If there is further interest, put all the above logic in a function, and call it 50 times at least, and store the results in a vector called Prob then take the mean of Prob vector to be more accurate. 
+
+** End of Assignment **
