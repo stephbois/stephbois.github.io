@@ -41,7 +41,7 @@ Data Analytics Projects @ Chang School of Continuing Education
 - R Programming | Assignment 3: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/r_programming/assignment_3) <br />
 
 ### Python Programming for Data Science Course Assignments 
-**Tools Used:** Python, Google Collab <br />
+**Tools Used:** Python, Google Collab, Visual Studio Code <br />
 - Python Programming | Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_1) <br />
 - Python Data Analysis | Assignment 2: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_2) <br />
 - Python Data Analysis | Group Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
