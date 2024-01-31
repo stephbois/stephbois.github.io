@@ -3,10 +3,12 @@
 **Languages:** English (fluent), French (fluent) | **Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS  
 
 ## Education
-- Certificate,**Data Analytics, Big Data, and Predictive Analytics** <br />
+- **Certificate in Data Analytics, Big Data, and Predictive Analytics** <br />
   Chang School of Continuing Education (Toronto, ON) | 2021-2024 <br />
-- BASc | **Major in Nutrition and Food, Dean’s List** | Toronto Metropolitan Univeristy (Toronto, ON) | 2020-2024 <br />
-- Advanced Diploma | **Dental Hygiene, Dean’s Medal &  Honour List** | George Brown College (Toronto, ON) | 2014-2016 <br />
+- **BASc with Major in Nutrition and Food, Dean’s List** <br />
+  Toronto Metropolitan Univeristy (Toronto, ON) | 2020-2024 <br />
+- **Advanced Diploma in Dental Hygiene, Dean’s Medal &  Honour List** <br />
+- George Brown College (Toronto, ON) | 2014-2016 <br />
 
 ## Work & Volunteer Experience
 
