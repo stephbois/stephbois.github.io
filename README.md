@@ -33,7 +33,7 @@ I assisted in analyzing the distribution of numeric attributes and determining w
 **Summary of Role and Responsibilities** Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights.
 Created a Python-based data analysis algorithm using Google Collabs to process, analyze, and visualize a given "Superstore Orders" dataset as part of a team of three students. My role and responsibilities as the "Algorithm Developer (Data Structures and Algorithms Specialist)" involved implementing efficient algorithms to analyze the data and extract meaningful insights. This included using my knowledge of python programming to implement an algorithm to identify the top 10 store sub-categories by sales and designing a data structure to store the monthly sales trend for the entire superstore. I also implemented a search algorithm to find all days where a promo led to sales above a certain threshold. I also designed a scenario where a Stack or Queue data structure would be helpful in processing or analyzing the dataset. Lastly, I reviewed and optimized my code for memory efficiency and time efficiency. 
 
-### SPSS Data Analysis and Research Methods: Group Project
+### Quantitative Data Analysis using SPSS: Group Project
 **[Research proposal and final research paper: View Files]**() <br />
 **Project Aim:** <br />
 **Tools Used:** <br />
