@@ -34,22 +34,23 @@ Data Analytics Projects @ Chang School of Continuing Education
 ---
 ## Data Analytics and Data Science Student Projects
 
-### Data Analytics Basic Methods Course Assignments
 ![image name](insert image path)
+### Data Analytics Basic Methods Course Assignments
 Assignment 1: [Publication](insert link here)
 Assignment 2: [Publication](insert link here)
 Assignment 3: [Publication](insert link here)
 **Overview:** <br />
 **Tools Used:** RStudio and R Markdown document file <br />
 
-### Python Programming for Data Science Course Assignments 
+
 ![Python Image](/assets/img/Python1.png) <br />
-[**Assignment 1**](/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf) <br />
+### Python Programming for Data Science Course Assignments 
+[Python Programming Assignment](/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf) <br />
 **Overview:** Individual course assignment <br />
 **Tools Used:** Google Collab <br />
 
 ![image name](insert image path) <br />
-[**Group Assignment**](insert link here) <br />
+[Group Assignment](insert link here) <br />
 **Overview:** <br />
 **Tools Used:** <br />
 **Role and Responsibilities:** The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
