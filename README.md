@@ -37,12 +37,12 @@ Data Analytics Projects @ Chang School of Continuing Education
 ### Data Analytics Basic Methods Course Assignments
 **Overview:** <br />
 **Tools Used:** RStudio and R Markdown document file <br />
-**R Programming Assignment 1:** [Publication](insert link here) <br />
+**R Programming Assignment 1:** [Link to Assignment Files](assets/projects/r_programming/assignment_1) <br />
 **R Programming Assignment 2:** [Publication](insert link here) <br />
 **R Programming Assignment 3:** [Publication](insert link here) <br />
 
 ### Python Programming for Data Science Course Assignments 
-**Individual Assignment 1:**[Python Programming Assignment](/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf) <br />
+**Python Programming Assignment 1:**[Link to Python Programming Assignment](/assets/projects/CIND830_Fall2023_Assignment1_Q.ipynb%20-%20Colaboratory_Stephanie_Boissonneault_V2.pdf) <br />
 **Overview:** Individual course assignment <br />
 **Tools Used:** Python, Google Collab <br />
 
