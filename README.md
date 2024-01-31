@@ -17,22 +17,14 @@
 ---
 ## Case Studies and Group Projects
 ### Business Analysis Case Study Presentation: Group Project 
-Group Milestone: 
-Presentation: [View Files](insert link here) <br />
-*Overview:* <br />
-*Tools Used:* <br />
-*Responsibilities:* <br />
+**Presentation and project files: [View Files]**(insert link here) <br />
+**Project Aim:** Conduct data analysis of the "Bank Marketing Dataset" to help Portuguese Bank solve a business problem: To devise a strategy to sell long-term deposit accounts.  <br />
+**Tools Used:** <br />
+**Summary of Responsibilities:** <br />
+This project required that we demonstrate an ability to identify and understand the data and the research question (identifying which customers are most likely to subscribe to a long-term deposit account). 
 
-The final group project (worth 40% of the final grade) is a collaborative project in which
-student groups will apply fundamental data analysis and machine learning skills learned in
-this course. In small groups, students will take the role of data scientists to solve a data
-analytics problem for an organization. Each group will be able to choose a dataset from a
-given list of publicly available organizational datasets to work with.
-The first milestone of this project will be for each group to establish their workload
-distribution, select one of the provided datasets, and determine a tentative methodology of
-their research.
-This project will not only allow students to apply what they have learned throughout their
-course of study, but also foster valuable teamwork and communication skills.
+Collaborated with two other team members
+I assisted in analyzing the distribution of numeric attributes and determining whether the dataset has an imbalanced class distribution. I used python and Weka file to conduct predictive modeling and apply a Train Test Split prior to generating a decision tree and Naïve Bayes algorithms for baseline and filtered data based on selected features. Outputs of the algorithms were analyzed and compared based on their performance measures. Results were summarized using Tableau to draw conclusions. Findings and effective business recommendations were communicated in a 7 minute PowerPoint presentations.
 
 ### Python Programming for Data Analysis: Group Project 
 - Python Data Analysis | Group Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
