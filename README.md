@@ -8,15 +8,15 @@
   Chang School of Continuing Education (Toronto, ON) | 2021-2024 <br />
 - **BASc with Major in Nutrition and Food, Dean’s List** <br />
   Toronto Metropolitan Univeristy (Toronto, ON) | 2020-2024 <br />
-- **Advanced Diploma in Dental Hygiene, Dean’s Medal &  Honour List** <br />
+- **Advanced Diploma in Dental Hygiene, Dean’s Medal** <br />
   George Brown College (Toronto, ON) | 2014-2016 <br />
 
 ## Work & Volunteer Experience
 
 # Projects Portfolio
 ---
-## Group Porjects and Case Studies
-**Big Data Case Study Group Project**: 
+## Case Studies and Group Projects
+**Big Data Case Study Group Project** 
 Group Milestone: 
 Presentation: [View Files](insert link here) <br />
 *Overview:* <br />
@@ -38,6 +38,8 @@ course of study, but also foster valuable teamwork and communication skills.
 - Python Data Analysis | Group Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
 - > Overview: <br />
 - > Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
+
+**Big Data Case Study Group Project**: 
 
 ## Assignments and Sample Code
 ### Data Analytics Basic Methods Course Assignments
