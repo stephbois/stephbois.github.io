@@ -16,7 +16,7 @@
 # Projects Portfolio
 ---
 ## Case Studies and Group Projects
-**Big Data Case Study Group Project** 
+### Business Analysis Case Study Presentation: Group Project 
 Group Milestone: 
 Presentation: [View Files](insert link here) <br />
 *Overview:* <br />
@@ -34,12 +34,12 @@ their research.
 This project will not only allow students to apply what they have learned throughout their
 course of study, but also foster valuable teamwork and communication skills.
 
-**Python Programming Group Project** 
+### Python Programming for Data Analysis: Group Project 
 - Python Data Analysis | Group Assignment 1: [View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
 - > Overview: <br />
 - > Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for implementing efficient algorithms to analyze the data and extract meaningful insights. 
 
-**Big Data Case Study Group Project**: 
+### SPSS Data Analysis and Research Methods: Group Project 
 
 ## Assignments and Sample Code
 ### Data Analytics Basic Methods Course Assignments
@@ -53,7 +53,7 @@ course of study, but also foster valuable teamwork and communication skills.
 - Python Programming | [Assignment 1: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_1) <br />
 - Python Data Analysis | [Assignment 2: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_2) <br />
 
-### Other Programming Course Assignments 
+### Other Programming Samples and Course Assignments 
 - Supervised Learning Using SAS | [Assignment: View Files](insert link here) <br />
 - Querying an RDBMS Database Using SQLite | [Assignment: View Files](insert link here)  <br />
 
