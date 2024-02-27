@@ -41,6 +41,10 @@ Created a Python-based data analysis algorithm using Google Collabs to process, 
 **Summary of Roles and Responsibilities:** <br />
 
 ## Assignments and Sample Code
+### Data Analytics: Advanced Methods Course Assignements
+***Tools Used:*** *Python, Google Collab, RStudio and R Markdown document file* <br />
+- Python Data Analysis (Advanced) | [Assignment 1: View Files]() <br />
+
 ### Data Analytics Basic Methods Course Assignments
 ***Tools Used:*** *RStudio and R Markdown document file* <br />
 - R Programming | [Assignment 1: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/r_programming/assignment_1) <br />
@@ -51,6 +55,10 @@ Created a Python-based data analysis algorithm using Google Collabs to process, 
 ***Tools Used:*** *Python, Google Collab, Visual Studio Code* <br />
 - Python Programming | [Assignment 1: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_1) <br />
 - Python Data Analysis | [Assignment 2: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/assignment_2) <br />
+
+### Data Organization for Data Analysts Course Assignements
+***Tools Used:*** *MySQL Workbench 8.0, Command Prompt* <br />
+- SQL querying and working with a DBMS | [Assignement 1: View Files]()
 
 ### Other Programming Samples and Course Assignments 
 - Supervised Learning Using SAS | [Assignment: View Files](insert link here) <br />
