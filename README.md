@@ -25,7 +25,7 @@
 - Analyze the initial dataset attributes and performed data cleaning. 
 - Split data into train and test sets and applied to Decision Tree and Naïve Bayes algorithms.
 - Analysed results of algorithm on basleine data and select features, and interpreted results of their performance measures. 
-- Summarized results with visualizations produced in Tableau to communicated findings and business recommendations in a short and concise PowerPoint presentations.
+- Summarized results using visualizations produced in Tableau to communicate findings and recommendations in PowerPoint presentations.
 
 ### Python Programming for Data Analysis: Group Project 
 **[Jupiter notebook and project files: View Files]** (https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
