@@ -30,9 +30,10 @@
 ### Python Programming for Data Analysis: Group Project 
 **[Jupiter notebook and project files: View Files]** (https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
 
-**Project Aim:** As a Data Structures and Algorithms Specialist, collaborate with team members to implement efficient algorithms that analyze the data and extract meaningful insights.<br /> -
+**Project Aim:** As a Data Structures and Algorithms Specialist, collaborate with team members to implement efficient algorithms that analyze the data and extract meaningful insights.<br /> 
 
 **Tools Used:** Python, Google Collab <br />
+
 **Summary of Role and Responsibilities** Role and Responsibilities: The Algorithm Developer (Data Structures and Algorithms Specialist) responsible for 
 - Created a Python-based data analysis algorithm using Google Collabs to process, analyze, and visualize a given "Superstore Orders" dataset
 - Implemented an algorithm to identify the top 10 store sub-categories by sales
