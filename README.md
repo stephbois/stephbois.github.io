@@ -1,30 +1,31 @@
-# Data Analysis, Data Science & Research
+# Data Analysis
 
 **Languages:** English (fluent), French (fluent) <br />
-**Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS  
+**Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS, Relational Database, Object  XQuery, XPath  
 
 ## Education
 - **Certificate in Data Analytics, Big Data, and Predictive Analytics** <br />
-  Chang School of Continuing Education (Toronto, ON) | 2023-2024 <br />
+  Chang School of Continuing Education (Toronto, ON) | SEP 2023 - AUG 2024 <br />
 - **BASc with Major in Nutrition and Food, Dean’s List** <br />
-  Toronto Metropolitan Univeristy (Toronto, ON) | 2020-2024 <br />
+  Toronto Metropolitan Univeristy (Toronto, ON) | SEP 2020 - APR 2024 <br />
 - **Advanced Diploma in Dental Hygiene, Dean’s Medal** <br />
-  George Brown College (Toronto, ON) | 2014-2016 <br />
+  George Brown College (Toronto, ON) | SEP 2014 - JUN 2016 <br />
 
-## Work & Volunteer Experience
-
-# Projects Portfolio
+# Projects
 ---
 ## Case Studies and Group Projects
 ### Business Analysis Case Study Presentation: Group Project 
 **[Presentation and project files: View Files]**(insert link here) <br />
-**Project Aim:** Conduct data analysis of the "Bank Marketing Dataset" to help Portuguese Bank solve a business problem: To devise a strategy to sell long-term deposit accounts.  <br />
+**Project Aim:** Conduct data analysis of the "Bank Marketing Dataset" to help a Portuguese Bank solve their business problem: To devise a strategy to sell long-term deposit accounts.  <br />
 **Tools Used:** Python and Weka files, Tableau, Zoom (for presentation and team communication) <br />
 **Summary of Role and Responsibilities:** <br />
-This project required that we demonstrate an ability to identify and understand the data and the research question (identifying which customers are most likely to subscribe to a long-term deposit account). 
+This project required that we work in teams of three to demonstrate an ability to identify and understand the data and the research question (identifying which customers are most likely to subscribe to a long-term deposit account). 
 
-Collaborated with two other team members
-I assisted in analyzing the distribution of numeric attributes and determining whether the dataset has an imbalanced class distribution. I used python and Weka file to conduct predictive modeling and apply a Train Test Split prior to generating a decision tree and Naïve Bayes algorithms for baseline and filtered data based on selected features. Outputs of the algorithms were analyzed and compared based on their performance measures. Results were summarized using Tableau to draw conclusions. Findings and effective business recommendations were communicated in a 7 minute PowerPoint presentations.
+- Identified the research question (which customers are most likely to subscribe to a long-term deposit account)
+- Analyze the initial dataset attributes and performed data cleaning. 
+- Split data into train and test sets and applied to Decision Tree and Naïve Bayes algorithms.
+- Analysed results of algorithm on basleine data and select features, and interpreted results of their performance measures. 
+- Summarized results with visualizations produced in Tableau to communicated findings and business recommendations in a short and concise PowerPoint presentations.
 
 ### Python Programming for Data Analysis: Group Project 
 **[Jupiter notebook and project files: View Files]** (https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
