@@ -16,9 +16,11 @@
 ## Case Studies and Group Projects
 ### Business Analysis Case Study Presentation: Group Project 
 **[Presentation and project files: View Files]**(insert link here) <br />
+
 **Project Aim:** Collaborate in teams of 3 to conduct data analysis of a "Bank Marketing Dataset" and help solve a business problem (To devise a strategy to sell long-term deposit accounts).  <br />
+
 **Tools Used:** Python and Weka files, Tableau, Zoom (for presentation and team communication) <br />
-**Task Summary:** <br />
+
 - Identified the research question (which customers are most likely to subscribe to a long-term deposit account)
 - Analyze the initial dataset attributes and performed data cleaning. 
 - Split data into train and test sets and applied to Decision Tree and Naïve Bayes algorithms.
