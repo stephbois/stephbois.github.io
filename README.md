@@ -111,8 +111,7 @@
 ### Data Organization for Data Analysts Course Assignements
 ***Tools Used:*** *MySQL Workbench 8.0, Command Prompt* <br />
 - SQL querying and working with a DBMS | [Assignement 1: View Files]()
-
-- Supervised Learning Using SAS | [Assignment 1: View Files](). <br /> 
+- Supervised Learning Using SAS | [Assignment 1: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/SAS). <br /> 
 
 ### Other Programming Samples and Course Assignments 
 - Supervised Learning Using SAS | [Assignment: View Files](insert link here) <br />
