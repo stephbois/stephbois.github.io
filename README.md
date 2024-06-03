@@ -113,7 +113,6 @@
 - SQL querying and working with a DBMS | [Assignement 1: View Files]()
 
 ### Other Programming Samples and Course Assignments 
-- Supervised Learning Using SAS | [Assignment: View Files](insert link here) <br />
-- Querying an RDBMS database using SQLite Studio | [Assignment: View Files](insert link here)  <br />
+- Querying an RDBMS database using SQLite Studio | [Assignment: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/SQLite_Studio))  <br />
 - Unsupervised Learning Using SAS | [Assignment: View Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/SAS). <br /> 
 
