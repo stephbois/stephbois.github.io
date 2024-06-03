@@ -1,7 +1,51 @@
 # Data Analysis
 
 **Languages:** English (fluent), French (fluent) <br />
-**Technical Skills:** Python, SQL, R, Hadoop, SAS, Mongo DB, SPSS, Relational Database, Object  XQuery, XPath  
+**Technical Skills:** Python, NoSQL Databases, R, Hadoop and MapReduce frameworks, SAS, Mongo DB, SPSS, Relational Database, Object  XQuery, XPath  
+**Working Knowledge of:** probability theory, hypothesis testing, machine learning, natural language processing, relational database management systems, 
+**Demonstrated Learning Outcomes** 
+- Describe and apply the components of a data analytics process.
+- Formulate a framework for a business problem for a given dataset.
+- Recognize various data types of data collection.
+- Apply data cleaning and transformation techniques.
+- Identify sampling biases and their associated risks.
+- Describe fundamental elements of probability theory such as random variables, sample space, dependent/independent events, conditional probability, and probability distributions.
+- Explain how hypothesis testing is used to draw conclusions from data.
+- Apply appropriate statistical tests to find evidence towards previously formed hypotheses about data.
+
+- Demonstrate ability to select and apply fundamental statistics to a dataset including mean, median, mode, and varience.
+- Employ appropriate statistical tests to test hypotheses on data.
+- Construct a decision tree classifier on a dataset
+- Implement the k-means clustering algorithm to find groups in a dataset.
+- Implement and evaluate the performance of both supervised and unsupervised machine learning algorithms.
+
+- Explain the challenges of translating natural language processing (NLP) to a data analytics problem.
+- Describe the elements of basic text processing.
+- Describe the purpose of text classification and how it can be used to classify various documents written in natural language.
+- Apply naïve Bayes classifiers for text classification problems.
+
+- Describe the components of relational databases.
+- Design a database schema.
+- Write SQL queries to extract information from a relational database
+
+- Explain how the Hadoop ecosystem handles large volumes of data by using HDFS and MapReduce frameworks.
+- Recognize the advantages and disadvantages of Hadoop.
+
+- Describe NoSQL databases and its advantages.
+- Explain how the CAP theorem relates to RDBMS and NoSQL databases in a larger framework.
+- Write queries against a NoSQL database in MongoDB.
+
+- Produce relevant visualizations that best represents data including histograms, frequency distributions, box plots.
+- Apply pre-attentive processing techniques when creating data visualizations.
+- Use appropriate visual encodings for different data types.
+- Create a bar chart with different visual encodings from a dataset.
+
+- Describe why ethics is important in data science.
+- Explain how to gather informed consent for collecting and using data.
+- Explain how bias is introduced into results.
+
+
+
 
 ## Education
 - **Certificate in Data Analytics, Big Data, and Predictive Analytics** <br />
@@ -67,6 +111,8 @@
 ### Data Organization for Data Analysts Course Assignements
 ***Tools Used:*** *MySQL Workbench 8.0, Command Prompt* <br />
 - SQL querying and working with a DBMS | [Assignement 1: View Files]()
+
+- Supervised Learning Using SAS | [Assignment 1: View Files](). <br /> 
 
 ### Other Programming Samples and Course Assignments 
 - Supervised Learning Using SAS | [Assignment: View Files](insert link here) <br />
