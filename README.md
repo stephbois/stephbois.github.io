@@ -49,7 +49,7 @@
 
 ## Education
 - **Certificate in Data Analytics, Big Data, and Predictive Analytics** <br />
-  Chang School of Continuing Education (Toronto, ON) | SEP 2023 - AUG 2024 <br />
+  Chang School of Continuing Education (Toronto, ON) | SEP 2023 - DEC 2024 <br />
 - **BASc with Major in Nutrition and Food, Dean’s List** <br />
   Toronto Metropolitan Univeristy (Toronto, ON) | SEP 2020 - APR 2024 <br />
 - **Advanced Diploma in Dental Hygiene, Dean’s Medal** <br />
