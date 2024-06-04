@@ -1,7 +1,9 @@
 # Data Analyst
 
 **Languages:** English (fluent), French (fluent) <br />
+
 **Technical Skills:** Python, NoSQL Databases, R Studio, Hadoop and MapReduce frameworks, SAS, MongoDB, SPSS, Relational Database, Object  XQuery, XPath  
+
 **Professional Summary**
 - High-performing bilingual BASc graduate with 8 years experience working with health data.
 - Detail-oriented and skilled in accurate data collection, cleaning, manipulation and analysis as evidenced through experience as a research assistant and exemplified through various coursework assignments.
