@@ -24,7 +24,7 @@
 ## Case Studies and Group Projects
 
 ### XML Data Engineering, Information Retrieval, and Data Mining Analysis Group Project 
-**[Jupiter notebook and project files: View Files]** (link comming soon) <br />
+**[View Project Files]** (link comming soon) <br />
 
 **Project Aim:** Collaborate in a team of three as the Data Mining Analyst to process and analyze electronic product data in XML format, utilizing XML data handling, information retrieval, and data mining techniques to extract meaningful insights and improve business decision-making towards forming marketing strategies. <br /> 
 
@@ -42,7 +42,7 @@
 
 
 ### Python Programming for Data Analysis: Group Project 
-**[Jupiter notebook and project files: View Files]** (https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
+**[View Project Files]** (https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
 
 **Project Aim:** Collaborate in teams of three as the Data Structures and Algorithm Specialist to implement efficient algorithms in Python using Pandas library that process, analyze, and visualize a “Superstore Orders” dataset, resulting in the extraction of meaningful insights into the business’ sales and operational trends. <br /> 
 
@@ -56,7 +56,7 @@
 - Designed a scenario where a Stack or Queue data structure would be helpful in processing or analyzing the dataset. Lastly, I reviewed and optimized my code for memory efficiency and time efficiency. 
 
 ### Business Analysis Case Study Presentation: Group Project 
-**[Presentation and project files: View Files]**(Link comming soon) <br />
+**[View Project Files]**(Link comming soon) <br />
 
 **Project Aim:** Collaborate in teams of 3 to conduct data analysis of a "Bank Marketing Dataset" and help solve their business problem to devise a strategy to sell long-term deposit accounts.  <br />
 
