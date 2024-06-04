@@ -42,7 +42,7 @@
 
 
 ### Python Programming for Data Analysis: Group Project 
-[View Python Programing Project Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
+[View Python Programming Project Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
 
 **Project Aim:** Collaborate in teams of three as the Data Structures and Algorithm Specialist to implement efficient algorithms in Python using Pandas library that process, analyze, and visualize a “Superstore Orders” dataset, resulting in the extraction of meaningful insights into the business’ sales and operational trends. <br /> 
 
