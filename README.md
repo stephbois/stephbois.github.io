@@ -24,7 +24,7 @@
 ## Case Studies and Group Projects
 
 ### XML Data Engineering, Information Retrieval, and Data Mining Analysis Group Project 
-**[View Project Files]** (link comming soon) <br />
+**[View Project Files]**((https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/XML%20Data%20Engineering%2C%20Information%20Retrieval%2C%20and%20Data%20Mining%20Analysis%20Group%20Project) <br />
 
 **Project Aim:** Collaborate in a team of three as the Data Mining Analyst to process and analyze electronic product data in XML format, utilizing XML data handling, information retrieval, and data mining techniques to extract meaningful insights and improve business decision-making towards forming marketing strategies. <br /> 
 
