@@ -36,9 +36,9 @@
 - Analyzed association metrics to interpret strong rule associations using confidence and support.
 - Created detailed reports documenting data mining processes, including manual calculations and logic.
 - Generated business insights from data analysis to inform and improve decision-making processes.
-- Assisted colleagues with XML Data Engineering by parsing, querying, and transforming XML data using XPath and XQuery as well as extracting and structuring fata for further analysis.
-- Assisted team with applying text pre-processing techniques to standardize text data by including normalization, removing stopwords, stemming/lemmatization, eliminating punctuations and numbers.
-- Assisted in creating a TermDocumentMatrix to analyze data and defining the granularity of term and weighted measures in accordance with analysis objectives.
+- Assisted team with writting parsing, querying, and transforming XML data using XPath and XQuery.
+- Applying text pre-processing techniques includingn normalization and stemming/lemmatization to standardize text data.
+- Assisted in creating a TermDocumentMatrix and defining the granularity of term and weighted measures in accordance with analysis objectives.
 
 
 ### Python Programming for Data Analysis: Group Project 
