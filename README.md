@@ -37,8 +37,8 @@
 - Created detailed reports documenting data mining processes, including manual calculations and logic.
 - Generated business insights from data analysis to inform and improve decision-making processes.
 - Assisted team with writting parsing, querying, and transforming XML data using XPath and XQuery.
-- Applying text pre-processing techniques includingn normalization and stemming/lemmatization to standardize text data.
-- Assisted in creating a TermDocumentMatrix and defining the granularity of term and weighted measures in accordance with analysis objectives.
+- Applyed text pre-processing techniques includingn normalization and stemming/lemmatization to standardize text data.
+- Crreated a TermDocumentMatrix and defined the granularity of term and weighted measures in accordance with analysis objectives.
 
 
 ### Python Programming for Data Analysis: Group Project 
