@@ -42,7 +42,7 @@
 
 
 ### Python Programming for Data Analysis: Group Project 
-[View Python Programming Project Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/python/group_assignment_1) <br />
+[View Python Programming Project Files](comming soon) <br />
 
 **Project Aim:** Collaborate in teams of three as the Data Structures and Algorithm Specialist to implement efficient algorithms in Python using Pandas library that process, analyze, and visualize a “Superstore Orders” dataset, resulting in the extraction of meaningful insights into the business’ sales and operational trends. <br /> 
 
@@ -56,7 +56,7 @@
 - Designed a scenario where a Stack or Queue data structure would be helpful in processing or analyzing the dataset. Lastly, I reviewed and optimized my code for memory efficiency and time efficiency. 
 
 ### Business Analysis Case Study Presentation: Group Project 
-**[View Project Files]**(Link comming soon) <br />
+[View Project Files](comming soon) <br />
 
 **Project Aim:** Collaborate in teams of 3 to conduct data analysis of a "Bank Marketing Dataset" and help solve their business problem to devise a strategy to sell long-term deposit accounts.  <br />
 
@@ -70,7 +70,7 @@
 - Summarized and presented results for stakeholders in a PowerPoint presentation, using visualizations produced in Tableau to communicate clear and concise findings and business recommendations. 
 
 ### Quantitative Data Analysis using SPSS: Group Project
-**[Research proposal and final research paper: View Files]**() <br />
+**[View Research Proposal and Final Research Paper Files]() <br />
 **Project Aim:** <br />
 **Tools Used:** <br />
 **Skill highlights:** <br />
