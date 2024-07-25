@@ -5,7 +5,7 @@
 **Technical Skills:** Python, NoSQL Databases, R Studio, Hadoop and MapReduce frameworks, SAS, MongoDB, SPSS, Relational Database, Object  XQuery, XPath  
 
 **Professional Summary**
-- High-performing bilingual BASc graduate with 8 years experience working with health data.
+- High-performing bilingual Nutrition and Food BASc graduate with 3 years academic experience in reserch and data collection, analysis, and reporting.
 - Detail-oriented and skilled in accurate data collection, cleaning, manipulation and analysis as evidenced through experience as a research assistant and exemplified through various coursework assignments.
 - Demonstrated understanding of machine learning and predictive modeling through university projects.
 - Strong communication skills and fluency in both French and English as demonstrated through language tutoring positions and providing healthcare services to clients in both languages.
