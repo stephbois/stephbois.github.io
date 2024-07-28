@@ -70,7 +70,7 @@
 - Summarized and presented results for stakeholders in a PowerPoint presentation, using visualizations produced in Tableau to communicate clear and concise findings and business recommendations. 
 
 ### Quantitative Data Analysis using SPSS: Group Project
-[View Research Proposal and Final Research Paper Files]() <br />
+[View Project Files](https://github.com/stephbois/stephbois.github.io/tree/main/assets/projects/spss) <br />
 
 **Project Aim:** Develop familiarity with data collection, interpretation, presentation, and dissemination through a group-centered research project involving data analysis of the Canadian Community Health Survey (CCHS) data using SPSS. <br />
 
