@@ -5,12 +5,3 @@ descritpion: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3NH9WDP6GG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-3NH9WDP6GG');
-</script>
