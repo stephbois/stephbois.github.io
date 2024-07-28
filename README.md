@@ -56,7 +56,7 @@
 - Designed a scenario where a Stack or Queue data structure would be helpful in processing or analyzing the dataset. Lastly, I reviewed and optimized my code for memory efficiency and time efficiency. 
 
 ### Business Analysis Case Study Presentation: Group Project 
-[View Project Files](comming soon) <br />
+[View Project Files (comming soon)] <br />
 
 **Project Aim:** Collaborate in teams of 3 to conduct data analysis of a "Bank Marketing Dataset" and help solve their business problem to devise a strategy to sell long-term deposit accounts.  <br />
 
@@ -70,11 +70,16 @@
 - Summarized and presented results for stakeholders in a PowerPoint presentation, using visualizations produced in Tableau to communicate clear and concise findings and business recommendations. 
 
 ### Quantitative Data Analysis using SPSS: Group Project
-**[View Research Proposal and Final Research Paper Files]() <br />
-**Project Aim:** <br />
-**Tools Used:** <br />
-**Skill highlights:** <br />
-**Summary of Roles and Responsibilities:** <br />
+[View Research Proposal and Final Research Paper Files]() <br />
+
+**Project Aim:** Develop familiarity with data collection, interpretation, presentation, and dissemination through a group-centered research project involving data analysis of the Canadian Community Health Survey (CCHS) data using SPSS. <br />
+
+**Tools Used:** SPSS, GSuites (for team communication, collaboration, and report writting) <br />
+
+**Responsibilities:**
+- Wrote a research project proposal communicating results from the team's literature review to help identify the research question: Is there an association between food insecurity and mental health and wellbeing? 
+- Ran various descriptive and inferential statistical tests using SPSS software and CCHS data, communicating results through a statistics report.
+- Interpreted and desseminated results of statistical tests through a written research paper.
 
 ## Assignments and Sample Code
 ### Data Analytics: Advanced Methods Course Assignements
