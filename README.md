@@ -2,7 +2,7 @@
 
 **Languages:** English (fluent), French (fluent) <br />
 
-**Technical Skills:** SQL, Python, R, NoSQL Databases, R Studio, Hadoop and MapReduce frameworks, SAS, MongoDB, SPSS, Relational Database, Object  XQuery, XPath  
+**Technical Skills:** SQL, Python, R, NoSQL Databases, R Studio, Hadoop and MapReduce frameworks, SAS, MongoDB, SPSS, Relational Database,  XQuery, XPath  
 
 **Professional Summary**
 - High-performing bilingual Nutrition and Food BASc graduate with 3 years academic experience in reserch and data collection, analysis, and reporting.
