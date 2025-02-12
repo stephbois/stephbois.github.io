@@ -13,7 +13,7 @@
 
 ## Education
 - **Certificate in Data Analytics, Big Data, and Predictive Analytics** <br />
-  Toronto Metropolitan University's Chang School of Continuing Education (Toronto, ON) | SEP 2023 - DEC 2024 <br />
+  Toronto Metropolitan University's Chang School of Continuing Education (Toronto, ON) | SEP 2023 - DEC 2024 (Graduation Expected Spring 2025) <br />
 - **BASc in Nutrition and Food, Dean’s List** <br />
   Toronto Metropolitan University (Toronto, ON) | SEP 2020 - APR 2024 <br />
 - **Advanced Diploma in Dental Hygiene, Dean’s Medal** <br />
@@ -21,6 +21,9 @@
 
 # Projects
 ---
+## Capstone Project
+[View Big Data Analytics Capstone Project Files](https://github.com/stephbois/Big_Data_Analytics_Project.git)<br />
+
 ## Case Studies and Group Projects
 
 ### XML Data Engineering, Information Retrieval, and Data Mining Analysis Group Project 
