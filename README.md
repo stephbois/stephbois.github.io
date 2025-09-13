@@ -24,6 +24,10 @@
 ## Capstone Project
 [View Big Data Analytics Capstone Project Files](https://github.com/stephbois/Big_Data_Analytics_Project.git)<br />
 
+- Designed and executed an independent research study analyzing U.S. health survey data following a comprehensive literature review to investigate associations between health indicators and diabetes.
+- Applied advanced statistical methods and machine learning models using python, including feature selection, PCA, and predictive modeling, to evaluate disease risk factors and model interpretability.
+- Communicated results in a written report and oral presentation using data visualizations, highlighting implications, limitations, and recommendations for future research.
+
 ## Case Studies and Group Projects
 
 ### XML Data Engineering, Information Retrieval, and Data Mining Analysis Group Project 
