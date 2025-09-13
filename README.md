@@ -1,8 +1,8 @@
-# Data Analyst
+cell# Data Analyst
 
 **Languages:** English (fluent), French (fluent) <br />
 
-**Technical Skills:** SQL, Python, R, NoSQL Databases, R Studio, Hadoop and MapReduce frameworks, SAS, MongoDB, SPSS, Relational Databases,  XQuery, XPath  
+**Technical Skills:** Excell, Tableau, SQL, Python, R, NoSQL Databases, R Studio, Hadoop and MapReduce frameworks, SAS, MongoDB, SPSS, Relational Databases,  XQuery, XPath  
 
 **Professional Summary**
 - High-performing bilingual Nutrition and Food BASc graduate with 3 years of academic experience in research and data collection, analysis, and reporting.
